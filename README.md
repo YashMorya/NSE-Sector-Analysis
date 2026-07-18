@@ -37,9 +37,9 @@ full analytics pipeline — data extraction, storage, analysis, and visualizatio
   
 ## Dashboard Preview
 
-![Main Dashboard](page1.png)
-![Correlation Matrix](page2.png)
-![Growth Trends](page3.png)
+![Main Dashboard](Dashboard/Page1.png)
+![Correlation Matrix](Dashboard/page2.png)
+![Growth Trends](Dashboard/page3.png)
 
 ## Dashboard Features
 - Interactive date slicer (April 2022 — December 2024)

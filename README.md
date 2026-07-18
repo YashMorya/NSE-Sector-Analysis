@@ -22,6 +22,7 @@ full analytics pipeline — data extraction, storage, analysis, and visualizatio
 3. Which sector shows the most consistency and regularity in growth?
 
 ## Key Findings
+
 - **Auto sector** delivered the highest cumulative return of ~164% over 3 years
 - **IT sector** showed a clear AI-era recovery — from -14.4% in 2022-23 to +21.5% in 2024, 
   confirming AI adoption impact on Indian IT stocks
@@ -33,6 +34,12 @@ full analytics pipeline — data extraction, storage, analysis, and visualizatio
 - **Financial Services** is most volatile at 25.5%, driven by credit cycle sensitivity
 - **Logistics sector** was the worst performer (-17.6%) despite e-commerce boom, 
   suggesting sector-level stock performance doesn't always mirror industry growth narratives
+  
+## Dashboard Preview
+
+![Main Dashboard](page1.png)
+![Correlation Matrix](page2.png)
+![Growth Trends](page3.png)
 
 ## Dashboard Features
 - Interactive date slicer (April 2022 — December 2024)
@@ -49,3 +56,4 @@ full analytics pipeline — data extraction, storage, analysis, and visualizatio
 4. Run `stocksfetching.ipynb` top to bottom
 5. Connect Power BI to your local PostgreSQL instance
 6. Open `powerbi_stock_analysis.pbix`
+
